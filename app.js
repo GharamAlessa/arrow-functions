@@ -204,4 +204,4 @@ console.log(joe.scopeArrow());
 // 2. What is "this" when joe.scopeArrow() is invoked?
 //the browser windos
 // 3. Explain why "this" is different when an arrow function is used.
-// this keyword has defferint behavior within a normal function and the arrow function (this key word in the arrow function will print the browser object becuse we didnt reveal object name or in other word we didnt refer to the object we can solve this usig console.log(this.joe))
+// this keyword has different behavior within a normal function and the arrow function (this key word in the arrow function will print the browser object because we didn't reveal object name or in other word we didn't refer to the object we can solve this using console.log(this.joe))
